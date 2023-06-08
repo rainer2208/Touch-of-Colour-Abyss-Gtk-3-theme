@@ -1,1 +1,1 @@
-# Touch-of-Colour-Gtk-3-theme
+# Touch-of-Colour-Abyss-Gtk-3-theme
